@@ -1,0 +1,116 @@
+[
+    {
+        "traces": [
+        ],
+        "sig": [
+            "GetKeyState",
+            "GetForegroundWindow",
+            "GetWindowTextW",
+            "GetKeyboardState",
+            "GetKeyboardLayout",
+            "ToUnicodeEx"
+        ],
+        "windowsize": 0,
+        "coverage": 0.0,
+        "falsePositiveShare": 0.0,
+        "num": 0,
+        "MD5": "3ae082b04d4dbca95ff2da0f2a0780dc"
+
+    },
+    {
+        "traces": [
+        ],
+        "sig": [
+            "GetKeyState",
+            "GetForegroundWindow",
+            "GetWindowTextW",
+            "GetKeyboardState",
+            "GetKeyboardLayout",
+            "MapVirtualKeyW",
+            "ToAscii"
+        ],
+        "windowsize": 0,
+        "coverage": 0.0,
+        "falsePositiveShare": 0.0,
+        "num": 0,
+        "MD5": "3ae082b04d4dbca95ff2da0f2a0780dc"
+
+    },
+    {
+        "traces": [
+            "data/training set/all_keylogger/Babylon 1.6.0.0-2.callstackoutput_11348@7728"
+        ],
+        "sig": [
+            "GetForegroundWindow",
+            "GetWindowTextW",
+            "GetAsyncKeyState",
+            "GetKeyState",
+            "GetKeyboardState",
+            "MapVirtualKeyW",
+            "ToAscii"
+        ],
+        "windowsize": 0,
+        "coverage": 0.0,
+        "falsePositiveShare": 0.0,
+        "num": 0,
+        "MD5": "3ae082b04d4dbca95ff2da0f2a0780dc"
+    },
+    {
+        "traces": [
+            "data/training set/all_keylogger/Babylon 1.6.0.0-2.callstackoutput_11348@7728"
+        ],
+        "sig": [
+            "GetForegroundWindow",
+            "GetWindowTextW",
+            "GetAsyncKeyState",
+            "GetKeyState",
+            "GetKeyboardState",
+            "ToUnicodeEx"
+        ],
+        "windowsize": 0,
+        "coverage": 0.0,
+        "falsePositiveShare": 0.0,
+        "num": 0,
+        "MD5": "3ae082b04d4dbca95ff2da0f2a0780dc"
+    },
+    {
+        "traces": [
+            "data/training set/all_keylogger/Babylon 1.6.0.0-2.callstackoutput_11348@7728"
+        ],
+        "sig": [
+            "GetRawInputData",
+            "GetKeyboardState",
+            "GetForegroundWindow",
+            "GetKeyboardLayout",
+            "MapVirtualKeyExW",
+            "GetKeyState",
+            "ToUnicodeEx",
+            "GetWindowTextW"
+        ],
+        "windowsize": 0,
+        "coverage": 0.0,
+        "falsePositiveShare": 0.0,
+        "num": 0,
+        "MD5": "3ae082b04d4dbca95ff2da0f2a0780dc"
+    },
+    {
+        "traces": [
+            "data/training set/all_keylogger/Babylon 1.6.0.0-2.callstackoutput_11348@7728"
+        ],
+        "sig": [
+            "GetRawInputData",
+            "GetKeyboardState",
+            "GetForegroundWindow",
+            "GetKeyboardLayout",
+            "MapVirtualKeyExW",
+            "GetKeyState",
+            "ToAscii",
+            "GetWindowTextW"
+        ],
+        "windowsize": 0,
+        "coverage": 0.0,
+        "falsePositiveShare": 0.0,
+        "num": 0,
+        "MD5": "3ae082b04d4dbca95ff2da0f2a0780dc"
+    }
+]
