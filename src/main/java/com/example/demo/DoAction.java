@@ -7,7 +7,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class DoAction {
-    private double match = 0.8;
+    private double match = 0.9;
 
     public void getFile() throws IOException {
         File file = ResourceUtils.getFile("classPath:templates");
